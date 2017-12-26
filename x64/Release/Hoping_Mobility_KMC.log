@@ -1,0 +1,14 @@
+﻿  Source.cpp
+Source.cpp(23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Source.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Source.cpp(56): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+Source.cpp(58): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+Source.cpp(123): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Source.cpp(127): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  31 of 1048 functions ( 3.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Hoping_Mobility_KMC.vcxproj -> D:\Work\Programs\C&C++_progs\Hoping_Mobility_KMC\x64\Release\Hoping_Mobility_KMC.exe
+  Hoping_Mobility_KMC.vcxproj -> D:\Work\Programs\C&C++_progs\Hoping_Mobility_KMC\x64\Release\Hoping_Mobility_KMC.pdb (Full PDB)

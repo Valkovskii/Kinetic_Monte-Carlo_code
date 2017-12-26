@@ -1,0 +1,9 @@
+﻿  Source.cpp
+d:\work\programs\c&c++_progs\hoping_mobility_kmc\hoping_mobility_kmc\source.cpp(23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\work\programs\c&c++_progs\hoping_mobility_kmc\hoping_mobility_kmc\source.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\work\programs\c&c++_progs\hoping_mobility_kmc\hoping_mobility_kmc\source.cpp(48): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+d:\work\programs\c&c++_progs\hoping_mobility_kmc\hoping_mobility_kmc\source.cpp(69): warning C4018: '<': signed/unsigned mismatch
+d:\work\programs\c&c++_progs\hoping_mobility_kmc\hoping_mobility_kmc\source.cpp(138): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\work\programs\c&c++_progs\hoping_mobility_kmc\hoping_mobility_kmc\source.cpp(142): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Hoping_Mobility_KMC.vcxproj -> D:\Work\Programs\C&C++_progs\Hoping_Mobility_KMC\Debug\Hoping_Mobility_KMC.exe
+  Hoping_Mobility_KMC.vcxproj -> D:\Work\Programs\C&C++_progs\Hoping_Mobility_KMC\Debug\Hoping_Mobility_KMC.pdb (Partial PDB)
